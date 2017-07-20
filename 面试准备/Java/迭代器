@@ -1,0 +1,16 @@
+1.Iterator是什么？
+Iterator接口提供遍历任何Collection的接口。可以从一个Collection中使用迭代器方法来获取迭代器实例。迭代器取代了Java集合框架中的Enumeration。迭代器允许调用者在迭代过程中移除元素。
+
+
+2.Enumeration和Iterator接口的区别？
+Enumeration的速度是Iterator的两倍，也使用更少的内存。Enumeration是非常基础的，也满足了基础的需要。但是，与Enumeration相比，Iterator更加安全，因为当一个集合正在被遍历的时候，它会阻止其它线程去修改集合。
+迭代器取代了Java集合框架中的Enumeration。迭代器允许调用者从集合中移除元素，而Enumeration不能做到。为了使它的功能更加清晰，迭代器方法名已经经过改善
+
+3.Iterater和ListIterator之间有什么区别？
+（1）我们可以使用Iterator来遍历Set和List集合，而ListIterator只能遍历List。
+（2）Iterator只可以向前遍历，而LIstIterator可以双向遍历。
+（3）ListIterator从Iterator接口继承，然后添加了一些额外的功能，比如添加一个元素、替换一个元素、获取前面或后面元素的索引位置。
+
+
+4.fail-fast与fail-safe有什么区别？
+Iterator的fail-fast属性与当前的集合共同起作用，因此它不会受到集合中任何改动的影响。Java.util包中的所有集合类都被设计为fail-fast的，而java.util.concurrent中的集合类都为fail-safe的。Fail-fast迭代器抛出ConcurrentModificationException，而fail-safe迭代器从不抛出ConcurrentModificationException。

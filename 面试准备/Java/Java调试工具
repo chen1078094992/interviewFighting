@@ -1,0 +1,2 @@
+JDB
+Java Debugger（JDB）是一款高效的调试器，能够识别和修复Java程序中的bug。它也是一个用于Java类的简单的命令行调试器。此调试器包含的Java平台调试器体系结构（JPDA）可加强检查和调试本地或远程的JVM（Java虚拟机）

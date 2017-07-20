@@ -1,0 +1,10 @@
+Java中object常用方法
+
+1、clone() 
+2、equals() 
+3、finalize() 
+4、getclass() 
+5、hashcode() 
+6、notify() 
+7、notifyAll() 
+8、toString()

@@ -1,0 +1,27 @@
+Linux
+
+上榜理由：Linux + GNU = GNU/Linux 。从Linus Torvalds在1991年宣布他在Minix基础上创建一新OS内核到现在已经接近20年了。在这段时间内，大部分网络服务器都是Linux系统。
+
+BSD
+上榜理由：长久以来，FreeBSD, NetBSD和OpenBSD是服务器众操作系统之中广为人知的3个OS。上世纪90年代，三者均是脱胎于伯克利的Unix系统，故把三者组团上榜。另外，Apple的Mac OS脱胎于FreeBSD。
+
+MySQL
+上榜理由：MySQL是全球使用范围最广的数据库系统。2009年，全球的MySQL安装数量已达1千1百万。它是LAMP架构（Linux, Apache, MySQL, PHP）中的M。众多知名网站和产品均使用MySQL，比如：维/基百科、Facebook、Google和Wordpress。（Google和Facebook均改造了MySQL，以满足自身需求。详情可见本文末尾推荐阅读文章）。
+
+Apache
+上榜理由：Apache HTTP服务器从它诞生的1996年开始，它是全球使用最为广泛的Web服务器，其市场占有率远远超过第二名的IIS。2009年，全球超过1亿个网站使用Apache。
+据Netcraft2010年8月11日的数据统计表明，全球目前已有119,664,128个网站使用Apache；目前Apache市场占有率为56.06%，IIS为25.03%。
+
+Firefox
+上榜理由：目前为止，它是Mozilla的最成功产品。2004年11月9日，FireFox 1.0问世。目前Firefox虽无法撼动IE的霸/主地位，但它是众多技术人员的首选浏览器。Firefox浏览器进化史：2002年9月23日Phoenix -> 2003年5月17日改为FireBird -> 2004年2月9日改为FireFox。
+
+WordPress
+上榜理由：从2004年Wordpress作为b2博客软件一分支面世后，它开始主宰博客平台市场。据Pingdom 2009年的调查表明，全球Top 100博客中27%使用Wordpress。如果加上Wordpress.com和Automattic的Wordpress服务博客，该数据上升至32%。
+
+
+BIND
+上榜理由：BIND（Berkeley Internet Name Domain Server）是现今互联网上最常使用的DNS服务器软件，使用BIND作为服务器软件的DNS服务器约占所有DNS服务器的90%。BIND的第一个版本要追溯到20世纪80年代，它由伯克利大学的4位研究生共同开发，它和4.3 BSD一起发布。可以这样说，它就是全球的标准DNS服务器。
+不接触Linux的朋友应该很少听过BIND。因为全球大多数服务器的OS均为Linux/Unix，而这些Linux/Unix均绑捆BIND，所以BIND的份额才非常高。
+
+Ubuntu
+上榜理由：2004年10月20日，Ubuntu首个版块发布。迄今为止，它是Linux流传最广的分支，尤其是其出色的桌面系统。鉴于Ubuntu近些年来的巨大成功，榜上有名，应受之无愧。
